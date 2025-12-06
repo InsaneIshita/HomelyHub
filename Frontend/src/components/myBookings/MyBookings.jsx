@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "../../CSS/MyBookings.css";
+import "../../css/MyBookings.css";
 import ProgressSteps from "../ProgressSteps";
 import { Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";

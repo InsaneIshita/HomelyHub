@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "../../CSS/BookingDetails.css";
+import "../../css/BookingDetails.css";
 import PropertyImg from "../propertyListing/PropertyImg";
 import { useDispatch, useSelector } from "react-redux";
 import { useParams } from "react-router-dom";
