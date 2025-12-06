@@ -87,9 +87,7 @@ IMAGEKIT_PRIVATE_KEY=your_key
 IMAGEKIT_URL_ENDPOINT=your_url
 ```
 
-🌐 Live Demo: 
-
---- 
+---
 
 ## Future Improvements
 
