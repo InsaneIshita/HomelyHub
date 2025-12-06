@@ -16,6 +16,6 @@ app['use'](a3b({
     'extended': !![]
 })), app['use'](a3c());
 const port = process['env']['PORT'] || 0x1f91;
-a3d(), app['use']('/api/v1/rent/user', router), app['use']('/api/v1/rent/listing', propertyRouter), app['use']('/api/v1/rent/user/booking', bookingRouter), app['listen'](port, () => {
+a3d(), app['use']('/v1/rent/user', router), app['use']('/v1/rent/listing', propertyRouter), app['use']('/v1/rent/user/booking', bookingRouter), app['listen'](port, () => {
     console['log']('App\x20running\x20on\x20port:\x20' + port);
 });
