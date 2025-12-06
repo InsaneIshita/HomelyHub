@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { propertyAction } from "../../store/Property/property-slice";
 import { getAllProperties } from "../../store/Property/property-action";
 import gsap from "gsap";
-import "../../CSS/Home.css";
+import "../../css/Home.css";
 
 const Card = ({ id, image, name, address, price}) => {
   return (
