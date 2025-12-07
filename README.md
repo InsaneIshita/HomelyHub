@@ -42,6 +42,7 @@ It is built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** an
 homelyhub/
 ├── frontend/ # React + Vite frontend
 ├── backend/ # Node + Express backend
+├── Screenshots # App UI
 ├── .gitignore
 └── README.md
 ```
