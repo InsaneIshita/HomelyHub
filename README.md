@@ -17,6 +17,16 @@ It is built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** an
 
 ---
 
+## Screenshots
+
+![1](Screenshots/Screenshot6.png)
+![2](Screenshots/Screenshot5.png)
+![3](Screenshots/Screenshot3.png)
+![3](Screenshots/Screenshot2.png)
+![4](Screenshots/Screenshot1.png)
+
+---
+
 ## Tech Stack
 
 ### Frontend
